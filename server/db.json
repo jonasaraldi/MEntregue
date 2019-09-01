@@ -1,0 +1,15 @@
+{
+  "dados": [
+    {
+      "origem": "Localização atual",
+      "destino": "teste",
+      "checkPeso": true,
+      "cnpj": "",
+      "celular": "478347828937",
+      "numeroDoCartao": "8293472389472897",
+      "validade": "11/2020",
+      "cvc": "923",
+      "id": 1
+    }
+  ]
+}
